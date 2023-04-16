@@ -1,3 +1,1 @@
-# front-end-my-first-page
-2023-Front End
-https://github.com/chtdkmn/front-end-my-first-page
+https://chtdkmn.github.io/front-end-my-first-page/
